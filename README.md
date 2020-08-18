@@ -3,6 +3,8 @@
 <!--
 **AlejoVE/AlejoVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![](https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
