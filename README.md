@@ -24,7 +24,7 @@ Web developer and passionate about technology based in Belgium.
 
 -  🏡 &nbsp; I'm from Venezuela.
 -  🎓 &nbsp; I graduated as a web developer at [Hack Your Future Belgium](https://github.com/HackYourFutureBelgium).
--  💼 &nbsp; Looking for opportunities to do an internship.
+-  💼 &nbsp; Looking for job or internship opportunities.
 -  🌱 &nbsp; Learning more about React with Hooks, Redux and Unit Testing using Enzyme & Jest.
 
 <br/>
