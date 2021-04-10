@@ -21,7 +21,7 @@ Web developer and passionate about technology based in Belgium.
 -  Postman
 
 ## 👨🏻‍💻 About Me
-
+-  🕶 &nbsp;  Currently Junior Web Developer at [BeCode](https://github.com/becodeorg)
 -  🏡 &nbsp; I'm from Venezuela.
 -  🎓 &nbsp; I graduated as a web developer at [Hack Your Future Belgium](https://github.com/HackYourFutureBelgium).
 -  💼 &nbsp; Looking for job or internship opportunities.
